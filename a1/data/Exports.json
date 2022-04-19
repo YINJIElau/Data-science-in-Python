@@ -1,0 +1,650 @@
+{
+    "1949":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":13.59,
+        "TOTAL.CLEXBUS.A":877.294,
+        "TOTAL.COEXBUS.A":191.8,
+        "TOTAL.ELEXBUS.A":0.598,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1950":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":9.87,
+        "TOTAL.CLEXBUS.A":786.496,
+        "TOTAL.COEXBUS.A":201.973,
+        "TOTAL.ELEXBUS.A":0.501,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1951":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":25.47,
+        "TOTAL.CLEXBUS.A":1682.779,
+        "TOTAL.COEXBUS.A":165.903,
+        "TOTAL.ELEXBUS.A":0.682,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1952":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":19.642,
+        "TOTAL.CLEXBUS.A":1402.98,
+        "TOTAL.COEXBUS.A":154.837,
+        "TOTAL.ELEXBUS.A":0.81,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1953":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":12.896,
+        "TOTAL.CLEXBUS.A":980.726,
+        "TOTAL.COEXBUS.A":115.6,
+        "TOTAL.ELEXBUS.A":1.462,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1954":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":9.622,
+        "TOTAL.CLEXBUS.A":910.509,
+        "TOTAL.COEXBUS.A":78.874,
+        "TOTAL.ELEXBUS.A":1.187,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1955":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":13.169,
+        "TOTAL.CLEXBUS.A":1464.521,
+        "TOTAL.COEXBUS.A":67.112,
+        "TOTAL.ELEXBUS.A":1.705,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1956":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":16.269,
+        "TOTAL.CLEXBUS.A":1984.106,
+        "TOTAL.COEXBUS.A":166.019,
+        "TOTAL.ELEXBUS.A":2.152,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1957":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":20.386,
+        "TOTAL.CLEXBUS.A":2174.059,
+        "TOTAL.COEXBUS.A":291.409,
+        "TOTAL.ELEXBUS.A":4.28,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1958":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":9.746,
+        "TOTAL.CLEXBUS.A":1415.843,
+        "TOTAL.COEXBUS.A":25.207,
+        "TOTAL.ELEXBUS.A":2.593,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1959":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":11.408,
+        "TOTAL.CLEXBUS.A":1051.257,
+        "TOTAL.COEXBUS.A":14.651,
+        "TOTAL.ELEXBUS.A":2.861,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1960":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":8.754,
+        "TOTAL.CLEXBUS.A":1023.17,
+        "TOTAL.COEXBUS.A":17.905,
+        "TOTAL.ELEXBUS.A":2.689,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1961":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":11.036,
+        "TOTAL.CLEXBUS.A":980.641,
+        "TOTAL.COEXBUS.A":18.717,
+        "TOTAL.ELEXBUS.A":3.127,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1962":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":9.027,
+        "TOTAL.CLEXBUS.A":1082.91,
+        "TOTAL.COEXBUS.A":10.382,
+        "TOTAL.ELEXBUS.A":5.666,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1963":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":11.185,
+        "TOTAL.CLEXBUS.A":1356.399,
+        "TOTAL.COEXBUS.A":9.848,
+        "TOTAL.ELEXBUS.A":6.773,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1964":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":12.995,
+        "TOTAL.CLEXBUS.A":1335.161,
+        "TOTAL.COEXBUS.A":7.905,
+        "TOTAL.ELEXBUS.A":14.513,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1965":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":20.683,
+        "TOTAL.CLEXBUS.A":1376.486,
+        "TOTAL.COEXBUS.A":6.363,
+        "TOTAL.ELEXBUS.A":12.622,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1966":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":27.33,
+        "TOTAL.CLEXBUS.A":1350.634,
+        "TOTAL.COEXBUS.A":8.567,
+        "TOTAL.ELEXBUS.A":10.838,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1967":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":17.608,
+        "TOTAL.CLEXBUS.A":1352.369,
+        "TOTAL.COEXBUS.A":153.938,
+        "TOTAL.ELEXBUS.A":14.843,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1968":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":19.642,
+        "TOTAL.CLEXBUS.A":1380.367,
+        "TOTAL.COEXBUS.A":10.452,
+        "TOTAL.ELEXBUS.A":14.619,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1969":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":40.399,
+        "TOTAL.CLEXBUS.A":1534.224,
+        "TOTAL.COEXBUS.A":8.329,
+        "TOTAL.ELEXBUS.A":13.069,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1970":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":61.454,
+        "TOTAL.CLEXBUS.A":1935.5,
+        "TOTAL.COEXBUS.A":28.948,
+        "TOTAL.ELEXBUS.A":14.363,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1971":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":37.423,
+        "TOTAL.CLEXBUS.A":1546.119,
+        "TOTAL.COEXBUS.A":2.917,
+        "TOTAL.ELEXBUS.A":11.99,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1972":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":30.554,
+        "TOTAL.CLEXBUS.A":1530.788,
+        "TOTAL.COEXBUS.A":1.085,
+        "TOTAL.ELEXBUS.A":9.584,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1973":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":34.596,
+        "TOTAL.CLEXBUS.A":1425.2,
+        "TOTAL.COEXBUS.A":4.043,
+        "TOTAL.ELEXBUS.A":8.769,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1974":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":31.694,
+        "TOTAL.CLEXBUS.A":1619.649,
+        "TOTAL.COEXBUS.A":6.229,
+        "TOTAL.ELEXBUS.A":9.302,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1975":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":31.57,
+        "TOTAL.CLEXBUS.A":1761.3,
+        "TOTAL.COEXBUS.A":12.447,
+        "TOTAL.ELEXBUS.A":17.344,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1976":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":32.612,
+        "TOTAL.CLEXBUS.A":1596.619,
+        "TOTAL.COEXBUS.A":17.058,
+        "TOTAL.ELEXBUS.A":8.115,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1977":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":30.777,
+        "TOTAL.CLEXBUS.A":1441.875,
+        "TOTAL.COEXBUS.A":105.879,
+        "TOTAL.ELEXBUS.A":9.361,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1978":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":17.18,
+        "TOTAL.CLEXBUS.A":1078.028,
+        "TOTAL.COEXBUS.A":334.822,
+        "TOTAL.ELEXBUS.A":5.043,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1979":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":35.719,
+        "TOTAL.CLEXBUS.A":1753.277,
+        "TOTAL.COEXBUS.A":497.101,
+        "TOTAL.ELEXBUS.A":7.444,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1980":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":51.362,
+        "TOTAL.CLEXBUS.A":2420.518,
+        "TOTAL.COEXBUS.A":608.623,
+        "TOTAL.ELEXBUS.A":13.974,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1981":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":29.02,
+        "TOTAL.CLEXBUS.A":2944.069,
+        "TOTAL.COEXBUS.A":482.364,
+        "TOTAL.ELEXBUS.A":10.441,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1982":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":24.632,
+        "TOTAL.CLEXBUS.A":2786.901,
+        "TOTAL.COEXBUS.A":500.42,
+        "TOTAL.ELEXBUS.A":12.066,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1983":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":16.504,
+        "TOTAL.CLEXBUS.A":2044.701,
+        "TOTAL.COEXBUS.A":347.697,
+        "TOTAL.ELEXBUS.A":11.387,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1984":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":25.911,
+        "TOTAL.CLEXBUS.A":2151.306,
+        "TOTAL.COEXBUS.A":384.151,
+        "TOTAL.ELEXBUS.A":8.729,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1985":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":27.833,
+        "TOTAL.CLEXBUS.A":2438.129,
+        "TOTAL.COEXBUS.A":432.177,
+        "TOTAL.ELEXBUS.A":16.94,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1986":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":24.909,
+        "TOTAL.CLEXBUS.A":2248.436,
+        "TOTAL.COEXBUS.A":325.991,
+        "TOTAL.ELEXBUS.A":16.431,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1987":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":14.243,
+        "TOTAL.CLEXBUS.A":2092.954,
+        "TOTAL.COEXBUS.A":318.791,
+        "TOTAL.ELEXBUS.A":20.07,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1988":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":27.112,
+        "TOTAL.CLEXBUS.A":2499.01,
+        "TOTAL.COEXBUS.A":328.934,
+        "TOTAL.ELEXBUS.A":24.111,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1989":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":26.918,
+        "TOTAL.CLEXBUS.A":2637.312,
+        "TOTAL.COEXBUS.A":299.764,
+        "TOTAL.ELEXBUS.A":51.639,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1990":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":14.189,
+        "TOTAL.CLEXBUS.A":2772.273,
+        "TOTAL.COEXBUS.A":229.989,
+        "TOTAL.ELEXBUS.A":55.048,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1991":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":19.645,
+        "TOTAL.CLEXBUS.A":2853.67,
+        "TOTAL.COEXBUS.A":245.835,
+        "TOTAL.ELEXBUS.A":7.863,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1992":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":17.402,
+        "TOTAL.CLEXBUS.A":2681.926,
+        "TOTAL.COEXBUS.A":188.342,
+        "TOTAL.ELEXBUS.A":9.644,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1993":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":26.333,
+        "TOTAL.CLEXBUS.A":1962.467,
+        "TOTAL.COEXBUS.A":207.838,
+        "TOTAL.ELEXBUS.A":12.082,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1994":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":24.456,
+        "TOTAL.CLEXBUS.A":1878.801,
+        "TOTAL.COEXBUS.A":208.918,
+        "TOTAL.ELEXBUS.A":6.858,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1995":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":33.678,
+        "TOTAL.CLEXBUS.A":2318.168,
+        "TOTAL.COEXBUS.A":200.152,
+        "TOTAL.ELEXBUS.A":12.361,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1996":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":40.233,
+        "TOTAL.CLEXBUS.A":2368.031,
+        "TOTAL.COEXBUS.A":233.224,
+        "TOTAL.ELEXBUS.A":11.266,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1997":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":31.405,
+        "TOTAL.CLEXBUS.A":2193.135,
+        "TOTAL.COEXBUS.A":227.986,
+        "TOTAL.ELEXBUS.A":30.619,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1998":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":27.999,
+        "TOTAL.CLEXBUS.A":2091.677,
+        "TOTAL.COEXBUS.A":232.592,
+        "TOTAL.ELEXBUS.A":46.596,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "1999":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":22.261,
+        "TOTAL.CLEXBUS.A":1525.108,
+        "TOTAL.COEXBUS.A":249.58,
+        "TOTAL.ELEXBUS.A":48.525,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2000":{
+        "TOTAL.BMEXBUS.A":0.0,
+        "TOTAL.CCEXBUS.A":28.414,
+        "TOTAL.CLEXBUS.A":1527.552,
+        "TOTAL.COEXBUS.A":106.442,
+        "TOTAL.ELEXBUS.A":50.598,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2001":{
+        "TOTAL.BMEXBUS.A":0.000218,
+        "TOTAL.CCEXBUS.A":33.373,
+        "TOTAL.CLEXBUS.A":1265.22,
+        "TOTAL.COEXBUS.A":42.839,
+        "TOTAL.ELEXBUS.A":56.207,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2002":{
+        "TOTAL.BMEXBUS.A":0.000308,
+        "TOTAL.CCEXBUS.A":19.637,
+        "TOTAL.CLEXBUS.A":1032.088,
+        "TOTAL.COEXBUS.A":19.111,
+        "TOTAL.ELEXBUS.A":53.895,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2003":{
+        "TOTAL.BMEXBUS.A":0.000608,
+        "TOTAL.CCEXBUS.A":17.9,
+        "TOTAL.CLEXBUS.A":1117.147,
+        "TOTAL.COEXBUS.A":26.315,
+        "TOTAL.ELEXBUS.A":81.802,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2004":{
+        "TOTAL.BMEXBUS.A":0.000684,
+        "TOTAL.CCEXBUS.A":32.701,
+        "TOTAL.CLEXBUS.A":1253.129,
+        "TOTAL.COEXBUS.A":56.739,
+        "TOTAL.ELEXBUS.A":78.128,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2005":{
+        "TOTAL.BMEXBUS.A":0.00114,
+        "TOTAL.CCEXBUS.A":43.335,
+        "TOTAL.CLEXBUS.A":1273.227,
+        "TOTAL.COEXBUS.A":67.389,
+        "TOTAL.ELEXBUS.A":65.343,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2006":{
+        "TOTAL.BMEXBUS.A":0.004585,
+        "TOTAL.CCEXBUS.A":40.089,
+        "TOTAL.CLEXBUS.A":1263.672,
+        "TOTAL.COEXBUS.A":52.192,
+        "TOTAL.ELEXBUS.A":82.814,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2007":{
+        "TOTAL.BMEXBUS.A":0.035883,
+        "TOTAL.CCEXBUS.A":35.807,
+        "TOTAL.CLEXBUS.A":1506.648,
+        "TOTAL.COEXBUS.A":58.034,
+        "TOTAL.ELEXBUS.A":68.73,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2008":{
+        "TOTAL.BMEXBUS.A":0.08935,
+        "TOTAL.CCEXBUS.A":48.582,
+        "TOTAL.CLEXBUS.A":2070.504,
+        "TOTAL.COEXBUS.A":60.691,
+        "TOTAL.ELEXBUS.A":82.564,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2009":{
+        "TOTAL.BMEXBUS.A":0.03508,
+        "TOTAL.CCEXBUS.A":32.409,
+        "TOTAL.CLEXBUS.A":1514.832,
+        "TOTAL.COEXBUS.A":92.711,
+        "TOTAL.ELEXBUS.A":61.887,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2010":{
+        "TOTAL.BMEXBUS.A":0.046758,
+        "TOTAL.CCEXBUS.A":36.278,
+        "TOTAL.CLEXBUS.A":2101.155,
+        "TOTAL.COEXBUS.A":88.151,
+        "TOTAL.ELEXBUS.A":65.19,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2011":{
+        "TOTAL.BMEXBUS.A":0.10833,
+        "TOTAL.CCEXBUS.A":24.058,
+        "TOTAL.CLEXBUS.A":2750.646,
+        "TOTAL.COEXBUS.A":99.515,
+        "TOTAL.ELEXBUS.A":51.346,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2012":{
+        "TOTAL.BMEXBUS.A":0.077615,
+        "TOTAL.CCEXBUS.A":24.162,
+        "TOTAL.CLEXBUS.A":3087.182,
+        "TOTAL.COEXBUS.A":143.221,
+        "TOTAL.ELEXBUS.A":40.929,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2013":{
+        "TOTAL.BMEXBUS.A":0.076189,
+        "TOTAL.CCEXBUS.A":20.833,
+        "TOTAL.CLEXBUS.A":2895.006,
+        "TOTAL.COEXBUS.A":284.017,
+        "TOTAL.ELEXBUS.A":38.805,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2014":{
+        "TOTAL.BMEXBUS.A":0.080534,
+        "TOTAL.CCEXBUS.A":23.461,
+        "TOTAL.CLEXBUS.A":2434.531,
+        "TOTAL.COEXBUS.A":743.752,
+        "TOTAL.ELEXBUS.A":45.374,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2015":{
+        "TOTAL.BMEXBUS.A":0.079996,
+        "TOTAL.CCEXBUS.A":21.251,
+        "TOTAL.CLEXBUS.A":1852.497,
+        "TOTAL.COEXBUS.A":964.47,
+        "TOTAL.ELEXBUS.A":31.049,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2016":{
+        "TOTAL.BMEXBUS.A":0.18057,
+        "TOTAL.CCEXBUS.A":24.808,
+        "TOTAL.CLEXBUS.A":1546.253,
+        "TOTAL.COEXBUS.A":1237.954,
+        "TOTAL.ELEXBUS.A":21.202,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2017":{
+        "TOTAL.BMEXBUS.A":0.205624,
+        "TOTAL.CCEXBUS.A":30.048,
+        "TOTAL.CLEXBUS.A":2387.564,
+        "TOTAL.COEXBUS.A":2424.41,
+        "TOTAL.ELEXBUS.A":31.973,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2018":{
+        "TOTAL.BMEXBUS.A":0.249161,
+        "TOTAL.CCEXBUS.A":28.549,
+        "TOTAL.CLEXBUS.A":2824.033,
+        "TOTAL.COEXBUS.A":4276.676,
+        "TOTAL.ELEXBUS.A":47.101,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2019":{
+        "TOTAL.BMEXBUS.A":0.239853,
+        "TOTAL.CCEXBUS.A":23.99,
+        "TOTAL.CLEXBUS.A":2305.11,
+        "TOTAL.COEXBUS.A":6212.276,
+        "TOTAL.ELEXBUS.A":68.267,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    },
+    "2020":{
+        "TOTAL.BMEXBUS.A":0.233582,
+        "TOTAL.CCEXBUS.A":16.949,
+        "TOTAL.CLEXBUS.A":1724.523,
+        "TOTAL.COEXBUS.A":6698.609,
+        "TOTAL.ELEXBUS.A":48.228,
+        "Theme":"Exports",
+        "units":"Trillion Btu"
+    }
+}

@@ -1,0 +1,650 @@
+{
+    "1949":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":6.919,
+        "TOTAL.CLIMBUS.A":7.875,
+        "TOTAL.COIMBUS.A":914.739,
+        "TOTAL.ELIMBUS.A":6.018,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1950":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":10.862,
+        "TOTAL.CLIMBUS.A":9.132,
+        "TOTAL.COIMBUS.A":1056.154,
+        "TOTAL.ELIMBUS.A":6.596,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1951":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":4.018,
+        "TOTAL.CLIMBUS.A":7.986,
+        "TOTAL.COIMBUS.A":1063.335,
+        "TOTAL.ELIMBUS.A":8.143,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1952":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":7.762,
+        "TOTAL.CLIMBUS.A":7.287,
+        "TOTAL.COIMBUS.A":1244.551,
+        "TOTAL.ELIMBUS.A":8.55,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1953":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.894,
+        "TOTAL.CLIMBUS.A":6.462,
+        "TOTAL.COIMBUS.A":1400.759,
+        "TOTAL.ELIMBUS.A":8.315,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1954":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.877,
+        "TOTAL.CLIMBUS.A":5.127,
+        "TOTAL.COIMBUS.A":1420.35,
+        "TOTAL.ELIMBUS.A":9.171,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1955":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.125,
+        "TOTAL.CLIMBUS.A":8.425,
+        "TOTAL.COIMBUS.A":1690.834,
+        "TOTAL.ELIMBUS.A":15.583,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1956":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.249,
+        "TOTAL.CLIMBUS.A":8.9,
+        "TOTAL.COIMBUS.A":2022.284,
+        "TOTAL.ELIMBUS.A":17.672,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1957":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.926,
+        "TOTAL.CLIMBUS.A":9.2,
+        "TOTAL.COIMBUS.A":2208.923,
+        "TOTAL.ELIMBUS.A":16.568,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1958":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.026,
+        "TOTAL.CLIMBUS.A":7.777,
+        "TOTAL.COIMBUS.A":2058.809,
+        "TOTAL.ELIMBUS.A":13.913,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1959":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.05,
+        "TOTAL.CLIMBUS.A":9.451,
+        "TOTAL.COIMBUS.A":2084.467,
+        "TOTAL.ELIMBUS.A":14.988,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1960":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.125,
+        "TOTAL.CLIMBUS.A":6.551,
+        "TOTAL.COIMBUS.A":2196.38,
+        "TOTAL.ELIMBUS.A":18.163,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1961":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.15,
+        "TOTAL.CLIMBUS.A":4.125,
+        "TOTAL.COIMBUS.A":2251.133,
+        "TOTAL.ELIMBUS.A":10.816,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1962":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.522,
+        "TOTAL.CLIMBUS.A":6.003,
+        "TOTAL.COIMBUS.A":2421.02,
+        "TOTAL.ELIMBUS.A":7.495,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1963":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.794,
+        "TOTAL.CLIMBUS.A":6.802,
+        "TOTAL.COIMBUS.A":2432.218,
+        "TOTAL.ELIMBUS.A":7.107,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1964":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.554,
+        "TOTAL.CLIMBUS.A":7.325,
+        "TOTAL.COIMBUS.A":2580.098,
+        "TOTAL.ELIMBUS.A":21.184,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1965":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.232,
+        "TOTAL.CLIMBUS.A":4.6,
+        "TOTAL.COIMBUS.A":2654.379,
+        "TOTAL.ELIMBUS.A":12.14,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1966":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.381,
+        "TOTAL.CLIMBUS.A":4.45,
+        "TOTAL.COIMBUS.A":2621.465,
+        "TOTAL.ELIMBUS.A":14.563,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1967":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.282,
+        "TOTAL.CLIMBUS.A":5.675,
+        "TOTAL.COIMBUS.A":2403.207,
+        "TOTAL.ELIMBUS.A":13.823,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1968":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.331,
+        "TOTAL.CLIMBUS.A":5.6,
+        "TOTAL.COIMBUS.A":2756.477,
+        "TOTAL.ELIMBUS.A":12.467,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1969":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":4.29,
+        "TOTAL.CLIMBUS.A":2.725,
+        "TOTAL.COIMBUS.A":2994.714,
+        "TOTAL.ELIMBUS.A":16.725,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1970":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":3.794,
+        "TOTAL.CLIMBUS.A":0.9,
+        "TOTAL.COIMBUS.A":2813.732,
+        "TOTAL.ELIMBUS.A":21.051,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1971":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":4.315,
+        "TOTAL.CLIMBUS.A":2.775,
+        "TOTAL.COIMBUS.A":3572.541,
+        "TOTAL.ELIMBUS.A":24.035,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1972":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":4.588,
+        "TOTAL.CLIMBUS.A":1.175,
+        "TOTAL.COIMBUS.A":4711.883,
+        "TOTAL.ELIMBUS.A":35.811,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1973":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":27.131,
+        "TOTAL.CLIMBUS.A":3.175,
+        "TOTAL.COIMBUS.A":6887.305,
+        "TOTAL.ELIMBUS.A":57.484,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1974":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":87.792,
+        "TOTAL.CLIMBUS.A":52.0,
+        "TOTAL.COIMBUS.A":7395.366,
+        "TOTAL.ELIMBUS.A":52.612,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1975":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":45.111,
+        "TOTAL.CLIMBUS.A":23.5,
+        "TOTAL.COIMBUS.A":8720.912,
+        "TOTAL.ELIMBUS.A":38.446,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1976":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":32.513,
+        "TOTAL.CLIMBUS.A":30.075,
+        "TOTAL.COIMBUS.A":11238.55,
+        "TOTAL.ELIMBUS.A":37.493,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1977":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":45.359,
+        "TOTAL.CLIMBUS.A":41.175,
+        "TOTAL.COIMBUS.A":14027.24,
+        "TOTAL.ELIMBUS.A":68.783,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1978":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":141.906,
+        "TOTAL.CLIMBUS.A":73.825,
+        "TOTAL.COIMBUS.A":13459.63,
+        "TOTAL.ELIMBUS.A":72.36,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1979":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":98.564,
+        "TOTAL.CLIMBUS.A":51.474,
+        "TOTAL.COIMBUS.A":13825.133,
+        "TOTAL.ELIMBUS.A":76.824,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1980":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":16.332,
+        "TOTAL.CLIMBUS.A":29.84,
+        "TOTAL.COIMBUS.A":11194.854,
+        "TOTAL.ELIMBUS.A":85.373,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1981":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":13.071,
+        "TOTAL.CLIMBUS.A":26.084,
+        "TOTAL.COIMBUS.A":9336.168,
+        "TOTAL.ELIMBUS.A":123.847,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1982":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":2.976,
+        "TOTAL.CLIMBUS.A":18.561,
+        "TOTAL.COIMBUS.A":7417.744,
+        "TOTAL.ELIMBUS.A":112.092,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1983":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":0.868,
+        "TOTAL.CLIMBUS.A":31.765,
+        "TOTAL.COIMBUS.A":7078.684,
+        "TOTAL.ELIMBUS.A":131.934,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1984":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":14.423,
+        "TOTAL.CLIMBUS.A":32.139,
+        "TOTAL.COIMBUS.A":7301.744,
+        "TOTAL.ELIMBUS.A":144.052,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1985":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":14.341,
+        "TOTAL.CLIMBUS.A":48.81,
+        "TOTAL.COIMBUS.A":6813.511,
+        "TOTAL.ELIMBUS.A":156.595,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1986":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":8.155,
+        "TOTAL.CLIMBUS.A":55.293,
+        "TOTAL.COIMBUS.A":9001.945,
+        "TOTAL.ELIMBUS.A":138.912,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1987":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":22.873,
+        "TOTAL.CLIMBUS.A":43.678,
+        "TOTAL.COIMBUS.A":10066.646,
+        "TOTAL.ELIMBUS.A":178.171,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1988":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":66.663,
+        "TOTAL.CLIMBUS.A":53.351,
+        "TOTAL.COIMBUS.A":11027.13,
+        "TOTAL.ELIMBUS.A":132.51,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1989":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":57.322,
+        "TOTAL.CLIMBUS.A":71.278,
+        "TOTAL.COIMBUS.A":12596.086,
+        "TOTAL.ELIMBUS.A":89.089,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1990":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":18.966,
+        "TOTAL.CLIMBUS.A":67.485,
+        "TOTAL.COIMBUS.A":12766.33,
+        "TOTAL.ELIMBUS.A":62.936,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1991":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":29.334,
+        "TOTAL.CLIMBUS.A":84.745,
+        "TOTAL.COIMBUS.A":12553.444,
+        "TOTAL.ELIMBUS.A":74.829,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1992":{
+        "TOTAL.BFIMBUS.A":0.0,
+        "TOTAL.CCIMBUS.A":52.027,
+        "TOTAL.CLIMBUS.A":95.069,
+        "TOTAL.COIMBUS.A":13253.408,
+        "TOTAL.ELIMBUS.A":96.377,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1993":{
+        "TOTAL.BFIMBUS.A":0.846,
+        "TOTAL.CCIMBUS.A":53.442,
+        "TOTAL.CLIMBUS.A":204.524,
+        "TOTAL.COIMBUS.A":14749.427,
+        "TOTAL.ELIMBUS.A":106.992,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1994":{
+        "TOTAL.BFIMBUS.A":0.968,
+        "TOTAL.CCIMBUS.A":82.785,
+        "TOTAL.CLIMBUS.A":221.746,
+        "TOTAL.COIMBUS.A":15339.528,
+        "TOTAL.ELIMBUS.A":159.795,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1995":{
+        "TOTAL.BFIMBUS.A":1.342,
+        "TOTAL.CCIMBUS.A":94.739,
+        "TOTAL.CLIMBUS.A":236.828,
+        "TOTAL.COIMBUS.A":15669.254,
+        "TOTAL.ELIMBUS.A":146.216,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1996":{
+        "TOTAL.BFIMBUS.A":1.086,
+        "TOTAL.CCIMBUS.A":63.044,
+        "TOTAL.CLIMBUS.A":202.882,
+        "TOTAL.COIMBUS.A":16341.399,
+        "TOTAL.ELIMBUS.A":148.41,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1997":{
+        "TOTAL.BFIMBUS.A":0.295,
+        "TOTAL.CCIMBUS.A":77.844,
+        "TOTAL.CLIMBUS.A":187.169,
+        "TOTAL.COIMBUS.A":17875.688,
+        "TOTAL.ELIMBUS.A":146.823,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1998":{
+        "TOTAL.BFIMBUS.A":0.229,
+        "TOTAL.CCIMBUS.A":95.094,
+        "TOTAL.CLIMBUS.A":218.092,
+        "TOTAL.COIMBUS.A":18916.158,
+        "TOTAL.ELIMBUS.A":134.82,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "1999":{
+        "TOTAL.BFIMBUS.A":0.302,
+        "TOTAL.CCIMBUS.A":79.953,
+        "TOTAL.CLIMBUS.A":227.233,
+        "TOTAL.COIMBUS.A":18935.152,
+        "TOTAL.ELIMBUS.A":147.449,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2000":{
+        "TOTAL.BFIMBUS.A":0.402,
+        "TOTAL.CCIMBUS.A":93.778,
+        "TOTAL.CLIMBUS.A":312.816,
+        "TOTAL.COIMBUS.A":19782.784,
+        "TOTAL.ELIMBUS.A":165.797,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2001":{
+        "TOTAL.BFIMBUS.A":1.526,
+        "TOTAL.CCIMBUS.A":62.633,
+        "TOTAL.CLIMBUS.A":494.682,
+        "TOTAL.COIMBUS.A":20347.647,
+        "TOTAL.ELIMBUS.A":131.363,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2002":{
+        "TOTAL.BFIMBUS.A":2.119,
+        "TOTAL.CCIMBUS.A":80.395,
+        "TOTAL.CLIMBUS.A":421.886,
+        "TOTAL.COIMBUS.A":19920.301,
+        "TOTAL.ELIMBUS.A":125.49,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2003":{
+        "TOTAL.BFIMBUS.A":1.531,
+        "TOTAL.CCIMBUS.A":68.415,
+        "TOTAL.CLIMBUS.A":626.099,
+        "TOTAL.COIMBUS.A":21060.345,
+        "TOTAL.ELIMBUS.A":103.706,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2004":{
+        "TOTAL.BFIMBUS.A":12.823,
+        "TOTAL.CCIMBUS.A":170.463,
+        "TOTAL.CLIMBUS.A":682.0,
+        "TOTAL.COIMBUS.A":22082.229,
+        "TOTAL.ELIMBUS.A":116.725,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2005":{
+        "TOTAL.BFIMBUS.A":12.361,
+        "TOTAL.CCIMBUS.A":87.526,
+        "TOTAL.CLIMBUS.A":761.509,
+        "TOTAL.COIMBUS.A":22090.819,
+        "TOTAL.ELIMBUS.A":149.887,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2006":{
+        "TOTAL.BFIMBUS.A":66.298,
+        "TOTAL.CCIMBUS.A":100.876,
+        "TOTAL.CLIMBUS.A":906.149,
+        "TOTAL.COIMBUS.A":22084.624,
+        "TOTAL.ELIMBUS.A":145.663,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2007":{
+        "TOTAL.BFIMBUS.A":54.782,
+        "TOTAL.CCIMBUS.A":60.998,
+        "TOTAL.CLIMBUS.A":908.671,
+        "TOTAL.COIMBUS.A":21913.503,
+        "TOTAL.ELIMBUS.A":175.362,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2008":{
+        "TOTAL.BFIMBUS.A":85.293,
+        "TOTAL.CCIMBUS.A":89.354,
+        "TOTAL.CLIMBUS.A":855.192,
+        "TOTAL.COIMBUS.A":21448.357,
+        "TOTAL.ELIMBUS.A":194.55,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2009":{
+        "TOTAL.BFIMBUS.A":26.553,
+        "TOTAL.CCIMBUS.A":8.598,
+        "TOTAL.CLIMBUS.A":565.963,
+        "TOTAL.COIMBUS.A":19698.574,
+        "TOTAL.ELIMBUS.A":178.074,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2010":{
+        "TOTAL.BFIMBUS.A":4.315,
+        "TOTAL.CCIMBUS.A":30.107,
+        "TOTAL.CLIMBUS.A":483.817,
+        "TOTAL.COIMBUS.A":20140.145,
+        "TOTAL.ELIMBUS.A":153.824,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2011":{
+        "TOTAL.BFIMBUS.A":18.963,
+        "TOTAL.CCIMBUS.A":35.162,
+        "TOTAL.CLIMBUS.A":327.19,
+        "TOTAL.COIMBUS.A":19594.623,
+        "TOTAL.ELIMBUS.A":178.447,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2012":{
+        "TOTAL.BFIMBUS.A":48.703,
+        "TOTAL.CCIMBUS.A":28.146,
+        "TOTAL.CLIMBUS.A":211.835,
+        "TOTAL.COIMBUS.A":19239.455,
+        "TOTAL.ELIMBUS.A":202.185,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2013":{
+        "TOTAL.BFIMBUS.A":101.868,
+        "TOTAL.CCIMBUS.A":3.411,
+        "TOTAL.CLIMBUS.A":199.317,
+        "TOTAL.COIMBUS.A":16957.095,
+        "TOTAL.ELIMBUS.A":236.278,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2014":{
+        "TOTAL.BFIMBUS.A":46.491,
+        "TOTAL.CCIMBUS.A":1.901,
+        "TOTAL.CLIMBUS.A":251.821,
+        "TOTAL.COIMBUS.A":16177.578,
+        "TOTAL.ELIMBUS.A":226.933,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2015":{
+        "TOTAL.BFIMBUS.A":79.354,
+        "TOTAL.CCIMBUS.A":3.47,
+        "TOTAL.CLIMBUS.A":256.161,
+        "TOTAL.COIMBUS.A":16299.136,
+        "TOTAL.ELIMBUS.A":258.529,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2016":{
+        "TOTAL.BFIMBUS.A":122.588,
+        "TOTAL.CCIMBUS.A":5.669,
+        "TOTAL.CLIMBUS.A":219.84,
+        "TOTAL.COIMBUS.A":17391.528,
+        "TOTAL.ELIMBUS.A":248.108,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2017":{
+        "TOTAL.BFIMBUS.A":81.35,
+        "TOTAL.CCIMBUS.A":1.45,
+        "TOTAL.CLIMBUS.A":167.671,
+        "TOTAL.COIMBUS.A":17597.454,
+        "TOTAL.ELIMBUS.A":224.117,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2018":{
+        "TOTAL.BFIMBUS.A":48.437,
+        "TOTAL.CCIMBUS.A":2.895,
+        "TOTAL.CLIMBUS.A":121.554,
+        "TOTAL.COIMBUS.A":17191.582,
+        "TOTAL.ELIMBUS.A":198.785,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2019":{
+        "TOTAL.BFIMBUS.A":71.772,
+        "TOTAL.CCIMBUS.A":2.868,
+        "TOTAL.CLIMBUS.A":137.68,
+        "TOTAL.COIMBUS.A":15045.414,
+        "TOTAL.ELIMBUS.A":201.487,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    },
+    "2020":{
+        "TOTAL.BFIMBUS.A":74.438,
+        "TOTAL.CCIMBUS.A":4.01,
+        "TOTAL.CLIMBUS.A":104.53,
+        "TOTAL.COIMBUS.A":13043.52,
+        "TOTAL.ELIMBUS.A":209.664,
+        "Theme":"Imports",
+        "units":"Trillion Btu"
+    }
+}
